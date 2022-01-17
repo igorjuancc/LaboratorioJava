@@ -17,7 +17,7 @@ Implementação de exercícios práticos de simulação de funcionamento de um s
 
 #### Ambiente Linux
 
-    # clonar o repositório
+    # clonar o repositório (ou realizar o download)
     git clone https://github.com/igorjuancc/LaboratorioJava.git
 
     # acessar a pasta view do projeto
