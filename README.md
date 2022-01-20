@@ -34,9 +34,10 @@ O projeto pode ser executado também a partir de uma IDE de preferência do usu�
 ### Sobre
 
 As implementações das atividades desse projeto foram desenvolvidas a partir dos exercícios do livro "Programação Java com Ênfase em Orientação a Objetos", capítulos 1,2,3,4 e 5, referênciado ao fim dessa seção; Os exercícios apresentados foram utilizados como critério de avaliação para o programa de estágios da empresa Copel Telecom no ano de 2019. 
-A descrição, o diagrama UML e os detalhes dos exercícios são apresentados no documento abaixo, localizado na pasta "doc" desse projeto.
 
-[Descrição e UML dos Exercícios](https://github.com/igorjuancc/LaboratorioJava/tree/main/doc)
+#### Documentação
+
+A descrição, o diagrama UML e os detalhes dos exercícios podem ser encontrados no seguinte repositório: [Documento Laboratório Java](https://github.com/igorjuancc/documentacao/tree/main/LaboratorioJava).
 
 #### Referência
 
